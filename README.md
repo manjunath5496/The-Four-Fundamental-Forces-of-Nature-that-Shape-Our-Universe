@@ -26,6 +26,7 @@
 <p>Relative Strength: 10 to the power of -39</p>
 <p>&nbsp;</p>
 <blockquote><em>"Electric and magnetic forces are far stronger than gravity, but remain unnoticeable because every macroscopic body contain almost equal numbers of positive and negative&nbsp;<a href="https://en.wikipedia.org/wiki/Electrical_charge" target="_blank" rel="nofollow noopener">electrical charge</a>s (i.e., the electric and magnetic forces nearly cancel each other out)."</em></blockquote>
+<p>&nbsp;</p>
 <ul>
 <li><strong>Proton feel</strong></li>
 </ul>
