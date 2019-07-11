@@ -16,6 +16,7 @@
         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Four-Fundamental-Forces-of-Nature-that-Shape-Our-Universe/blob/master/fn(11).pdf" style="text-decoration:none;">Electroweak and Strong Interactions </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Four-Fundamental-Forces-of-Nature-that-Shape-Our-Universe/blob/master/fn(12).pdf" style="text-decoration:none;"> Elements of Nuclei: Many-Body Physics with the Strong Interaction</a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Four-Fundamental-Forces-of-Nature-that-Shape-Our-Universe/blob/master/fn(13).pdf" style="text-decoration:none;">The Forces of Nature: A Popular Introduction to the Study of Physical Phenomena </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Four-Fundamental-Forces-of-Nature-that-Shape-Our-Universe/blob/master/fn(14).pdf" style="text-decoration:none;"> Nuclear Physics: Exploring the Heart of Matter</a></b></li>
   
  </ul>
